@@ -433,6 +433,7 @@ ul#nav li.current a { color: #F06000; }
 #portfolio-wrapper {
    display: flex;
    flex-wrap: wrap;
+   justify-content: space-between;
 }
 
 /* Portfolio Content */
