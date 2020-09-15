@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Ali Hayder",
-    "occupation": "ReactJS Developer @Brainstation23",
-    "description": "Full Stack React Developer by Day & Night.",
+    "occupation": "Node.js Developer @BrainStation23",
+    "description": "React.js | Node.js | TypeScript | Ionic",
     "image": "me.jpg",
     "bio": "My name is Ali, I'm a Full Stack ReactJS Developer. Currently I'm working at Brainstation23.",
     "contactmessage": "Get in touch with me to receive further details.",
@@ -13,7 +13,7 @@
       "state": "Bangladesh"
     },
     "website": "http://www.ahayder.me",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=127ih6aW8yBRrvIX6bMnWuDzhhSEW7Qao",
     "social": [
       {
         "name": "facebook",
