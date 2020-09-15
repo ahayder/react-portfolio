@@ -4,7 +4,7 @@
     "occupation": "Node.js Developer @BrainStation23",
     "description": "React.js | Node.js | TypeScript | Ionic",
     "image": "me.jpg",
-    "bio": "My name is Ali, I'm a Full Stack ReactJS Developer. Currently I'm working at Brainstation23.",
+    "bio": "Hello, My name is Ali, I'm a Full Stack ReactJS Developer. My love is constantly learning. Currently I'm working at Brainstation23.",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "alihayder19@gmail.com",
     "phone": "+880 1672 228726",
@@ -13,7 +13,7 @@
       "state": "Bangladesh"
     },
     "website": "http://www.ahayder.me",
-    "resumedownload": "https://drive.google.com/uc?export=download&id=127ih6aW8yBRrvIX6bMnWuDzhhSEW7Qao",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1AVyvgknQQknaW1uahVFu8ryahyLAGthV",
     "social": [
       {
         "name": "facebook",
@@ -69,33 +69,45 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "React.js",
         "level": "95%"
       },
       {
-        "name": "Ionic",
+        "name": "Node.js",
         "level": "90%"
       },
       {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "HTML5",
+        "name": "Firebase",
         "level": "90%"
       },
       {
         "name": "MongoDB",
         "level": "80%"
+      },
+      {
+        "name": "Ionic Framework",
+        "level": "90%"
+      },
+      {
+        "name": "WordPress",
+        "level": "60%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "React.js Amazon Clone with Stripe Payment",
+        "category": "This is a simple Amazon Clone using React.js, Firebase Hosting, Firebase Cloud Functions, Stripe Payment Gateway.",
+        "image": "amazon-clone.png",
+        "url": "https://clone-69f6d.web.app/"
+      },
+      {
+        "title": "Whatsapp Clone in MERN stack",
+        "category": "Basic Wahtsapp functionality using Rect.js and the backend is powered by Node.js, Express.js, MongoDB & Pusher for realtime functionalities.",
+        "image": "whatsapp.png",
+        "url": "https://apps.apple.com/ae/app/shob-khobor/id1504132752"
+      },
       {
         "title": "Shob Khobor App",
         "category": "Ionic App. Plublished in both Apple app store and Google play store.",
